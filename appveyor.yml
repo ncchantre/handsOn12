@@ -1,0 +1,10 @@
+version 1.0.{build}
+image: Visual Studo 2019
+
+build_script:
+  - ps: dotnet build -c Debug Tooling.csproj
+  - ps: dotnet tool install --global StyleCop.Analyzers
+  - ps: dotnet tool run stylecopia analyze -c Debug Tooling.csproj
+
+test_script
+  - ps: dotnet test -c Debug Tooling.Tests/Tooling.Tests.csproj

@@ -1,0 +1,5 @@
+C:\Users\nicho\Documents\CS509\handsOn12\Tooling\obj\Debug\net8.0\Tooling.csproj.AssemblyReference.cache
+C:\Users\nicho\Documents\CS509\handsOn12\Tooling\obj\Debug\net8.0\Tooling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicho\Documents\CS509\handsOn12\Tooling\obj\Debug\net8.0\Tooling.AssemblyInfoInputs.cache
+C:\Users\nicho\Documents\CS509\handsOn12\Tooling\obj\Debug\net8.0\Tooling.AssemblyInfo.cs
+C:\Users\nicho\Documents\CS509\handsOn12\Tooling\obj\Debug\net8.0\Tooling.csproj.CoreCompileInputs.cache
