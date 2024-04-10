@@ -12,4 +12,4 @@ build_script:
   - ps: dotnet format
 
 test_script:
-  - ps: dotnet test ./Tooling/UnitTest.cs
+  - ps: dotnet test ./Tooling/Tooling.csproj
