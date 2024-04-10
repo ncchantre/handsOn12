@@ -7,8 +7,10 @@ branches:
 
 build_script:
   - ps: dotnet build -c Debug Tooling.csproj
+  - ps: dotnet build -c Release Tooling.csproj
   - ps: dotnet tool install --global StyleCop.Analyzers
-  - ps: dotnet tool run stylecopia analyze -c Debug Tooling.csproj
+  - ps: dotnet tool run stylecop analyze -c Debug Tooling.csproj
+  - ps: dotnet test -c Debug Tooling.Tests/Tooling.Tests.csproj
 
 test_script
   - ps: dotnet test -c Debug Tooling.Tests/Tooling.Tests.csproj
