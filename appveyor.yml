@@ -10,7 +10,7 @@ build_script:
   - ps: dotnet build -c Release ./Tooling/Tooling.csproj
   - ps: dotnet tool install --global dotnet-format
   - ps: dotnet format
-  - ps: dotnet format install --global Microsoft.CodeAnalysis.FxCopAnalyzers
+  - ps: dotnet tool install --global Microsoft.CodeAnalysis.FxCopAnalyzers
   - ps: dotnet fxcop analyze ./Tooling/Tooling.csproj
 
 test_script:
