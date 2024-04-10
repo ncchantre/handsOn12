@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Tooling")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0c9f96e540bd2de276ad71d86ff67b892a51612a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+78a9005c9010b511d22358e098a23866d978bdde")]
 [assembly: System.Reflection.AssemblyProductAttribute("Tooling")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Tooling")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
