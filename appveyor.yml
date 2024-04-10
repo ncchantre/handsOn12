@@ -9,7 +9,7 @@ build_script:
   - ps: dotnet build -c Debug ./Tooling/Tooling.csproj
   - ps: dotnet build -c Release ./Tooling/Tooling.csproj
   - ps: dotnet tool install --global dotnet-format
-  - ps: dotnet format --check --fix --dry-run
+  - ps: dotnet format --check ./Tooling/**/*.cs
 
 test_script:
   - ps: dotnet test -c Debug ./Tooling.Tests/Tooling.Tests.csproj
