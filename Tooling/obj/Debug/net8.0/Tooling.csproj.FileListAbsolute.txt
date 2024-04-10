@@ -3,3 +3,17 @@ C:\Users\nicho\Documents\CS509\handsOn12\Tooling\obj\Debug\net8.0\Tooling.Genera
 C:\Users\nicho\Documents\CS509\handsOn12\Tooling\obj\Debug\net8.0\Tooling.AssemblyInfoInputs.cache
 C:\Users\nicho\Documents\CS509\handsOn12\Tooling\obj\Debug\net8.0\Tooling.AssemblyInfo.cs
 C:\Users\nicho\Documents\CS509\handsOn12\Tooling\obj\Debug\net8.0\Tooling.csproj.CoreCompileInputs.cache
+C:\Users\nicho\Documents\CS509\handsOn12\Tooling\bin\Debug\net8.0\Tooling.exe
+C:\Users\nicho\Documents\CS509\handsOn12\Tooling\bin\Debug\net8.0\Tooling.deps.json
+C:\Users\nicho\Documents\CS509\handsOn12\Tooling\bin\Debug\net8.0\Tooling.runtimeconfig.json
+C:\Users\nicho\Documents\CS509\handsOn12\Tooling\bin\Debug\net8.0\Tooling.dll
+C:\Users\nicho\Documents\CS509\handsOn12\Tooling\bin\Debug\net8.0\Tooling.pdb
+C:\Users\nicho\Documents\CS509\handsOn12\Tooling\bin\Debug\net8.0\nunit.framework.dll
+C:\Users\nicho\Documents\CS509\handsOn12\Tooling\bin\Debug\net8.0\nunit.framework.legacy.dll
+C:\Users\nicho\Documents\CS509\handsOn12\Tooling\obj\Debug\net8.0\Tooling.sourcelink.json
+C:\Users\nicho\Documents\CS509\handsOn12\Tooling\obj\Debug\net8.0\Tooling.csproj.CopyComplete
+C:\Users\nicho\Documents\CS509\handsOn12\Tooling\obj\Debug\net8.0\Tooling.dll
+C:\Users\nicho\Documents\CS509\handsOn12\Tooling\obj\Debug\net8.0\refint\Tooling.dll
+C:\Users\nicho\Documents\CS509\handsOn12\Tooling\obj\Debug\net8.0\Tooling.pdb
+C:\Users\nicho\Documents\CS509\handsOn12\Tooling\obj\Debug\net8.0\Tooling.genruntimeconfig.cache
+C:\Users\nicho\Documents\CS509\handsOn12\Tooling\obj\Debug\net8.0\ref\Tooling.dll

@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "uhi6moHxIQO9UgDYLeOmO/gmojNZHIQe4UWtB6mKia5XwC+uRXrgQnDEvIY5X48+ImNVYgEYWxhRgpg88sOxgA==",
+  "dgSpecHash": "2UaMOUwF9lQClbJaQinJlJB2tGwrN281zeGhjmACsiPcG2vGXpgv3hR1QjiHlcSATF55qbh7+gnTKy0Yaeha7A==",
   "success": true,
   "projectFilePath": "C:\\Users\\nicho\\Documents\\CS509\\handsOn12\\Tooling\\Tooling.csproj",
   "expectedPackageFiles": [
@@ -9,8 +9,7 @@
     "C:\\Users\\nicho\\.nuget\\packages\\microsoft.codequality.analyzers\\3.3.2\\microsoft.codequality.analyzers.3.3.2.nupkg.sha512",
     "C:\\Users\\nicho\\.nuget\\packages\\microsoft.netcore.analyzers\\3.3.2\\microsoft.netcore.analyzers.3.3.2.nupkg.sha512",
     "C:\\Users\\nicho\\.nuget\\packages\\microsoft.netframework.analyzers\\3.3.2\\microsoft.netframework.analyzers.3.3.2.nupkg.sha512",
-    "C:\\Users\\nicho\\.nuget\\packages\\nunit\\4.1.0\\nunit.4.1.0.nupkg.sha512",
-    "C:\\Users\\nicho\\.nuget\\packages\\stylecop.analyzers\\1.1.118\\stylecop.analyzers.1.1.118.nupkg.sha512"
+    "C:\\Users\\nicho\\.nuget\\packages\\nunit\\4.1.0\\nunit.4.1.0.nupkg.sha512"
   ],
   "logs": []
 }
